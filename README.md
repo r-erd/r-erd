@@ -33,9 +33,10 @@
 
 <img src="./assets/showcase.png">
 
-
-
 ## Languages & Tools
 
-
 <img src="./assets/github_tech.png">
+
+
+> Mockups with https://mockuphone.com/ and 
+> DINish font by https://github.com/playbeing/dinish
