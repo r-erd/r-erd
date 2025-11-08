@@ -7,9 +7,7 @@
 ### About me
 
 <pre>
-    💼 Human • MSc @ TU Darmstadt • IT Security • Student
     💻 Passionate about Information Security 
-    🌱 Learning about SIEM & Incident Reponse
     📫 Reach me via LinkedIn • https://www.linkedin.com/in/r-erd/
     ⬜ Minimalism • Linux > Windows • Sports • Reading • Gaming
 </pre>
